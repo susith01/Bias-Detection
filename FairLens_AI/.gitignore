@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Environment & Secrets
+.env
+.streamlit/secrets.toml
+
+# Generated Artifacts
+FairLens_AI/models/*.joblib
+models/*.joblib
+uploads/*.csv
+reports/*.pdf
+*.log
+.DS_Store

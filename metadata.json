@@ -1,0 +1,6 @@
+{
+  "name": "FairLens AI",
+  "description": "Bias Detection in an AI Decision System — Complete Python/Streamlit FairLens_AI codebase and interactive fairness auditing workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
